@@ -2,21 +2,14 @@
   <img src="../banner1500x500.jpg" alt="polyScripts Banner" width="100%">
 </p>
 
-# polyScripts
+<div align="center">
 
-**Professional Polymarket Bot Pack — Built for Profit**
+# POLYSCRIPTS
 
-We're a dedicated team that fully researched the Polymarket bot ecosystem, then designed and built a suite of useful, production-ready bots. Every bot is thoroughly tested and backed by positive customer feedback.
+Polymarket bots built to make you profit.
 
-## What We Offer
+We researched the entire bot market, built what actually works, tested everything, and got real users saying it works. We offer fully researched solutions with deep market analysis before we built. Our production-ready bots are practical tools for real trading. Everything is thoroughly tested with rigorous QA and performance checks. We have a proven track record with strong customer feedback and satisfaction.
 
-- **Fully researched** — Deep analysis of the bot market before building
-- **Useful bots** — Practical tools designed for real trading scenarios
-- **Fully tested** — Rigorous testing for reliability and performance
-- **Proven track record** — Strong customer feedback and satisfaction
+Ready to automate your Polymarket edge? Want a bot that makes profit? Contact us to get started.
 
-## Interested in Profitable Bots?
-
-If you want to purchase a bot to make profit on Polymarket, we'd love to hear from you.
-
-**Contact us** to discuss your needs and explore our available bot packs.
+</div>
